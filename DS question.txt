@@ -1,0 +1,46 @@
+Most Commonly Asked Data Science Interview Questions for Freshers
+What is Data Science?
+What is the difference between Data Science and Data Analytics?
+What is the difference between Supervised and Unsupervised Learning?
+What is Overfitting and Underfitting?
+What is the curse of dimensionality?
+What is the role of p-value in hypothesis testing?
+What is the difference between classification and regression?
+What is the Central Limit Theorem?
+Basic Data Science Interview Questions for Freshers
+What are KPI, Lift, and DOE?
+What are sampling techniques and why are they used?
+What is the difference between long and wide format data?
+What is a bias-variance tradeoff?
+What is a confusion matrix and how is it used?
+What is the difference between mean, median, and mode?
+What is a null hypothesis?
+What is the use of cross-validation?
+Intermediate Data Science Interview Questions for Freshers
+What is logistic regression and where is it used?
+What is linear regression and its limitations?
+What is the difference between correlation and covariance?
+What is feature selection and why is it important?
+What is the difference between bagging and boosting?
+What is the use of regularization in machine learning?
+What is the difference between precision and recall?
+What is the ROC curve?
+Advanced Data Science Interview Questions for Freshers
+What are eigenvalues and eigenvectors?
+What is PCA and how does it help in dimensionality reduction?
+What are autoencoders?
+What is a generative adversarial network (GAN)?
+What are exploding and vanishing gradients?
+What is the difference between RNN and CNN?
+What is the use of LSTM in time series?
+What is the difference between batch and stochastic gradient descent?
+Scenario-Based and Practical Data Science Interview Questions for Freshers
+How would you handle missing values in a dataset?
+How would you deal with imbalanced data?
+How would you train a model on a large dataset with limited RAM?
+How would you evaluate a model's performance?
+How would you choose the right algorithm for a problem?
+How would you explain a model to a non-technical stakeholder?
+How would you improve a model that is underperforming?
+How would you handle outliers in your data?
+Concluding Thoughts…
